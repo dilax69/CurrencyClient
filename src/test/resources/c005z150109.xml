@@ -1,0 +1,19 @@
+<tabela_kursow typ="C" uid="15c005">
+    <numer_tabeli>005/C/NBP/2015</numer_tabeli>
+    <data_notowania>2015-01-08</data_notowania>
+    <data_publikacji>2015-01-09</data_publikacji>
+    <pozycja>
+        <nazwa_waluty>dolar amerykański</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>USD</kod_waluty>
+        <kurs_kupna>3,5992</kurs_kupna>
+        <kurs_sprzedazy>3,6720</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>dolar australijski</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>AUD</kod_waluty>
+        <kurs_kupna>2,9205</kurs_kupna>
+        <kurs_sprzedazy>2,9795</kurs_sprzedazy>
+    </pozycja>
+</tabela_kursow>

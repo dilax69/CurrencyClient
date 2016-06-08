@@ -1,0 +1,19 @@
+<tabela_kursow typ="C">
+    <numer_tabeli>73/C/NBP/2007</numer_tabeli>
+    <data_notowania>2007-04-12</data_notowania>
+    <data_publikacji>2007-04-13</data_publikacji>
+    <pozycja>
+        <nazwa_waluty>dolar amerykański</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>USD</kod_waluty>
+        <kurs_kupna>2,8210</kurs_kupna>
+        <kurs_sprzedazy>2,8780</kurs_sprzedazy>
+    </pozycja>
+    <pozycja>
+        <nazwa_waluty>dolar australijski</nazwa_waluty>
+        <przelicznik>1</przelicznik>
+        <kod_waluty>AUD</kod_waluty>
+        <kurs_kupna>2,3292</kurs_kupna>
+        <kurs_sprzedazy>2,3762</kurs_sprzedazy>
+    </pozycja>
+</tabela_kursow>
